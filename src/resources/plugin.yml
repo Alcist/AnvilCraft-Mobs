@@ -1,3 +1,4 @@
-name: FireHelper
-main: eu.anvilindustries.anvilcraft.firehelper.Plugin
+name: BasePlugin
+main: com.alcist.baseplugin.Plugin
 version: 1
+depend: []
