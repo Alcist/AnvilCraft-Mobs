@@ -45,8 +45,6 @@ configurations {
 }
 
 dependencies {
-    bundle project(':FireHelperAPI')
-    bundle 'com.firebase:firebase-client-jvm:2.3.1+'
     compile 'org.spigotmc:spigot-api:+'
     compile configurations.bundle
     testCompile group: 'junit', name: 'junit', version: '4.11'
