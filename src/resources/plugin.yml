@@ -1,4 +1,4 @@
-name: BasePlugin
-main: com.alcist.baseplugin.Plugin
+name: AnvilCraft-Mobs
+main: com.alcist.mobs.Plugin
 version: 1
 depend: []
